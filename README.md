@@ -73,3 +73,35 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+---
+
+
+## Conceptos Básicos de React:
+## Componentes: 
+    En React, todo es un componente. Los componentes son bloques de construcción reutilizables para construir interfaces de usuario.
+## Props:  
+    Son datos que pasas a un componente desde su componente padre.
+    Estado (State): Representa la condición de un componente y puede cambiar con el tiempo debido a las interacciones del usuario.
+## Renderización de Elementos:
+    Utiliza el método ReactDOM.render() para renderizar elementos en el DOM.
+## Manejo de Eventos:
+    React utiliza eventos similares a HTML, como onClick y onChange. Debes familiarizarte con el manejo de eventos en React.
+## Ciclo de Vida de los Componentes:
+    Comprender el ciclo de vida de los componentes te ayudará a realizar acciones en diferentes etapas del ciclo de vida, como la creación, actualización y destrucción de un componente.
+## Uso de State y Props:
+    Aprende a manejar el estado interno de los componentes y cómo pasar datos entre componentes mediante props.
+## Manejo de Formularios en React:
+    Entender cómo funcionan los formularios en React es esencial para la mayoría de las aplicaciones web.
+## React Router:
+    Si estás construyendo una aplicación de una sola página (SPA), React Router te ayudará a manejar la navegación.
+## Gestión de Estado Avanzada:
+    Para aplicaciones más grandes, es posible que desees utilizar herramientas como Redux o el contexto de React para gestionar el estado de manera más eficiente.
+## Estilo en React:
+    Aprende sobre cómo manejar estilos en React, ya sea usando hojas de estilo externas, estilos en línea o bibliotecas de estilo como Styled Components.
+## Pruebas en React:
+    Conoce las mejores prácticas para probar tus componentes en React utilizando herramientas como Jest y React Testing Library.
+## Hooks de React:
+    Los hooks como useState y useEffect te permiten agregar estado y efectos a los componentes funcionales.
